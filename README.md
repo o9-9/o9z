@@ -5,7 +5,7 @@
   <img src="https://github.com/user-attachments/assets/d292caaa-4085-4d15-8217-c3f4878478a7" width="800" />
 
 [![GitHub Release](https://img.shields.io/badge/release-v9.9-blue.svg)](https://github.com/o9-9/o9z/releases/tag/v9.9)
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+[![License: MIT](https://img.shields.io/badge/License-MIT-red.svg)](https://opensource.org/licenses/MIT)
 
 </div>
 
