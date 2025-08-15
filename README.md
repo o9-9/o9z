@@ -42,7 +42,7 @@
 - Modify `o9-config.css` to suit your preferences
 - Additional settings can be changed in `about:config`
 
-## 🛠️ Setup
+## Setup
 
 ### Install Mica For Everyone
 
@@ -90,7 +90,7 @@ Configure Bonjourrr with these settings:
   </table>
 </div>
 
-## ⚙️ Custom CSS
+## Custom CSS
 
 Apply this CSS to achieve the proper font rendering and transparency:
 
@@ -144,7 +144,7 @@ p {
 }
 ```
 
-## 📌 Pin Extensions
+## Pin Extensions
 
 To complete your setup, pin the required extensions:
 
