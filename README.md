@@ -2,25 +2,36 @@
 
 <div align="center">
   <img src="https://github.com/user-attachments/assets/3c2dbe57-4182-4876-8a53-b7b4f3b0f5b0" width="800" alt="o9z Banner Image" />
-  <img src="https://github.com/user-attachments/assets/d292caaa-4085-4d15-8217-c3f4878478a7" width="800" />
 
 [![GitHub Release](https://img.shields.io/badge/release-v9.9-blue.svg)](https://github.com/o9-9/o9z/releases/tag/v9.9)
 [![License: MIT](https://img.shields.io/badge/License-MIT-red.svg)](https://opensource.org/licenses/MIT)
 
 </div>
 
-## ✨ Overview
+<h2 align="left">Overview</h2>
 
-o9z is a Firefox theme and customization suite designed to create a transparent, minimalist browsing experience. This project combines custom CSS, extensions, and system configurations to achieve a zen-like browsing environment.
+###
 
-## 🚀 Quick Install
+<p align="left">o9z is a Firefox theme and customization suite designed to create a transparent, minimalist browsing experience. This project combines custom CSS, extensions, and system configurations to achieve a zen-like browsing environment.</p>
 
-### Download Resources
+###
+
+<h2 align="left">Preview</h2>
+
+<div align="center">
+  <img src="https://github.com/user-attachments/assets/d292caaa-4085-4d15-8217-c3f4878478a7" width="400">
+</div>
+
+###
+
+##  Quick Install
+
+### Download
 
 - [Chrome Theme](https://github.com/o9-9/o9z/releases/download/v9.9/chrome.zip)
 - [Wallpaper Collection](https://github.com/o9-9/o9z/releases/download/v9.9/Wallpapers.zip)
 
-### Enable Transparency
+### Transparency
 
 1. Navigate to `about:config` in Firefox
 2. Search for `browser.tabs.allow_transparent_browser`
@@ -31,7 +42,7 @@ o9z is a Firefox theme and customization suite designed to create a transparent,
 - Modify `o9-config.css` to suit your preferences
 - Additional settings can be changed in `about:config`
 
-## 🛠️ Setup Instructions
+## 🛠️ Setup
 
 ### Install Mica For Everyone
 
@@ -43,7 +54,7 @@ o9z is a Firefox theme and customization suite designed to create a transparent,
   <img height="400" src="https://github.com/user-attachments/assets/34f6965c-1bdc-4ea1-8605-efde3b898d23" alt="Mica For Everyone Configuration" />
 </div>
 
-### Windows Settings
+### Settings
 
 1. Disable "Show Accent color on title bars and window borders" in Windows 11 settings
 
@@ -57,7 +68,7 @@ o9z is a Firefox theme and customization suite designed to create a transparent,
   <img width="250" src="https://github.com/user-attachments/assets/aff8398c-9457-4842-bb44-32932cb99e23" alt="Color Contrast Settings" />
 </div>
 
-## 💎 Required Extensions
+## Extensions
 
 ### Zen Internet
 
@@ -152,5 +163,5 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 ---
 
 <div align="center">
-  <sub>Made ❤️ by <a href="https://github.com/o9-9">o9</a></sub>
+  <sub>Made by <a href="https://github.com/o9-9">o9</a></sub>
 </div>
